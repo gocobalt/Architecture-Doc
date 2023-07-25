@@ -1,5 +1,13 @@
 ## Current Problems To Address
 
+
+<img width="1293" alt="Screenshot 2023-07-25 at 3 38 16 PM" src="https://github.com/gocobalt/Architecture-Doc/assets/16411146/5516dadc-ac4d-4d3a-a314-85c9439e27a8">
+
+
+
+
+
+
 **Lack of granular performance monitoring: [Sub Critical ]**
 
 **Context**
